@@ -1,0 +1,29 @@
+{
+  "MaterialGroupSpec": {
+    "Id": "Whitepaws",
+    "Paths#append": [
+      "Knatte/Material/1KA_DarkMetal.Folktails",
+      "Knatte/Material/1KA_DarkMetal.IronTeeth",
+      "Materials/UberAtlas/Materials/Emberpelts/BaseMetal.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/PaintedMetal.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/BaseWood_Brown.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/BaseWood_White.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/BaseWood_Red.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/BaseWood_DarkRed.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/IrregularPlanks_Brown.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/IrregularPlanks_White.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/IrregularPlanks_Red.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/IrregularPlanks_DarkRed.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/IrregularPlanks_Metal.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/Details.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/Paper.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/Plaster.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/Plaster_White.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/Plaster_Black.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/PlasteredWood.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/RoofPlanks2.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/WindowsAtlas.Emberpelts",
+      "Materials/UberAtlas/Materials/Emberpelts/WindowsAtlas2.Emberpelts",
+    ]
+  }
+}

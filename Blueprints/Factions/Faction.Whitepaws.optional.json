@@ -1,0 +1,11 @@
+{
+  "FactionSpec": {
+    "Id": "Whitepaws",
+    "Needs#append": [
+      "BlockDecoration"
+    ],
+    "Goods#append": [
+      "Extract"
+    ]
+  }
+}

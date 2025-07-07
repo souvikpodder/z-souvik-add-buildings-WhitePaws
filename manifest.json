@@ -1,0 +1,10 @@
+{
+	"Name": "Z Add buildings Whitepaws",
+	"Version": "0.1",
+	"Id": "Z.Souvy.AddBuildings.WhitePaws",
+	"MinimumGameVersion": "0.6.1.0",
+	"Description": "Add buildings to a particular faction :)",
+	"RequiredMods": [
+	
+  ]
+}
