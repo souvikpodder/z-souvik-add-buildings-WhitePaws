@@ -1,0 +1,10 @@
+{
+  "TimberApiToolGroupSpec": {
+  "Id": "Subgroup_ZipLine",
+  "GroupId": "Paths",
+  "Order": "70",
+  "Icon": "Sprites/ZiplineGroupIcon",
+  "NameLocKey": "Souvy.ZipLineGroup.DisplayName",
+  "FallbackGroup": false
+  }
+}
